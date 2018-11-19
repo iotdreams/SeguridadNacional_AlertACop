@@ -1,0 +1,1 @@
+Debido a un error al momento de subirlo a github lo subo por este medio, se puede abrir con un IDE Netbeans o Eclipse. El archivo war está en la carpeta dist, este es el que se ejecuta para ver la pagina web, y aquí esta tambien la Base de datos.
